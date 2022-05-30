@@ -1,11 +1,15 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{83E07177-4C62-6BED-9C1D-F7A387897442}",
+	"EngineAssociation": "{F325AA74-48CC-7D37-2E7D-C09D5C9864F0}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
 			"Enabled": true
 		}
 	]
